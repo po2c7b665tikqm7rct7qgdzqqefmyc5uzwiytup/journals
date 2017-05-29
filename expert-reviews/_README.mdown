@@ -1,0 +1,6 @@
+##2017-05-29
+
+added by hand by Sebastian, split off from future-science-group
+these are now all T&F journals, but keeping the list separate from the master T&F list for now
+List of journals taken from http://explore.tandfonline.com/content/med/medicine-hub/expert-collection/expert-review
+Two journals were discontinued; removing those entirely
