@@ -3,6 +3,7 @@ organic-geochemistry
 
 # List of styles that exists in the repository.
 # Will not be changed at the moment.
+accident-analysis-and-prevention
 archivos-de-bronconeumologia
 canadian-journal-of-ophthalmology-journal-canadien-dophtalmologie
 soil-biology-and-biochemistry
