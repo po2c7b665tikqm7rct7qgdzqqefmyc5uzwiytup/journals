@@ -45,3 +45,6 @@ structure
 the-american-journal-of-human-genetics
 #Cell, different style, not yet done
 molecular-plant
+
+#avoid title clash with MDPI journal Healthcare (Elsevier journal added with subtitle in _extra.tab)
+healthcare
