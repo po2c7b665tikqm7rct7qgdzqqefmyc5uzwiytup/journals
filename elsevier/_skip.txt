@@ -1,6 +1,18 @@
 # Require custom style
 organic-geochemistry
 
+# 2017-03: https://github.com/citation-style-language/styles/pull/2570
+asian-pacific-journal-of-tropical-disease
+
+# 2017-03: https://github.com/citation-style-language/styles/pull/2603
+journal-of-structural-geology
+
+# 2017-03: https://github.com/citation-style-language/styles/pull/2592
+quaternary-international
+
+# 2017-06: https://github.com/citation-style-language/styles/commit/3105778165e3d5cd65be016c73c89dcaa43c13fb
+long-range-planning
+
 # List of styles that exists in the repository.
 # Will not be changed at the moment.
 accident-analysis-and-prevention
