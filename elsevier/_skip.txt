@@ -13,6 +13,9 @@ quaternary-international
 # 2017-06: https://github.com/citation-style-language/styles/commit/3105778165e3d5cd65be016c73c89dcaa43c13fb
 long-range-planning
 
+# 2017-07: https://github.com/citation-style-language/styles/pull/2792
+tetrahedron-letters
+
 # List of styles that exists in the repository.
 # Will not be changed at the moment.
 accident-analysis-and-prevention
