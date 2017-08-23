@@ -57,6 +57,7 @@ cell-host-and-microbe
 cell-metabolism
 cell-reports
 cell-stem-cell
+chem
 current-biology
 developmental-cell
 immunity
