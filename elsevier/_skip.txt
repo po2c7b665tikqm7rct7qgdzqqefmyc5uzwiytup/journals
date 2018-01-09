@@ -27,6 +27,9 @@ veterinary-microbiology
 # 2017-10: Renamed to Perspectives in Ecology and Conservation
 natureza-and-conservacao
 
+# 2018-01: Moved to Wiley; https://github.com/citation-style-language/styles/pull/3250
+molecular-oncology
+
 # List of styles that exists in the repository.
 # Will not be changed at the moment.
 accident-analysis-and-prevention
